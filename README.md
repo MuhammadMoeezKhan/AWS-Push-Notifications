@@ -34,7 +34,7 @@ The project utilizes:
 ### Gif#3: Running A Test On The Lambda Function That Invokes Google Firebase Servics To Push A Notification To Use Endpoints!
 ##### Node.js Lambda function test is successfull --> pushes notification onto app using Firebase
 <p align="center">
-  <img src="http://g.recordit.co/Tw889xWKv8.gif" alt="animated" />
+  <img src="http://g.recordit.co/hc2zJfPwCf.gif" alt="animated" />
 </p>
 
 <br>
