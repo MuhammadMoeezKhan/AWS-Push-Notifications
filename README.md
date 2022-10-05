@@ -7,9 +7,9 @@
 <br>
 
 The project utilizes: 
-- Google Firebase  project services 
-- Amazon AWS SNS Topics, SQS Queues, and Lambda Functions that use SNS points to invoke the Firebase Android services which are connected with the Android Studio Project. 
-- Android Loaders, Fragments, Lifecycle methods, User Permissions, and also implements the Firebase Messaging Service
+- Google Firebase  Cloud Messaging services to establish the connection between our server and user devices to deliver and receive messages.
+- Amazon AWS SNS Topics (that user devices subscribe to using their unique device tokens), SQS Queues, and Lambda Functions that use SNS endpoints to invoke the Firebase Android services connected with the Android Studio Project. 
+- Android Studio: Android Loaders, Fragments, Lifecycle methods, User Permissions, Kotlin Plugins, and Android OOP Libraries.
 
 <br>
 
