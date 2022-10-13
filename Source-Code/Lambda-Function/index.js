@@ -26,7 +26,10 @@ exports.handler = async (event) => {
         MessageStructure : 'json'
     }
     
+    //choose AWS configuration
     const new_sns = new AWS.SNS({apiVersion: '2010-03-31'})
+    
+    //queue like behavior
     await new_sns.publish(params_sns).promise();    
     
     const response = {
