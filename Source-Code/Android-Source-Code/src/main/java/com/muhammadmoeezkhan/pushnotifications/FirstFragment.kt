@@ -8,7 +8,7 @@ import android.view.ViewGroup
 import androidx.navigation.fragment.findNavController
 import com.muhammadmoeezkhan.pushnotifications.databinding.FragmentFirstBinding
 
-
+//using Android fragments for display and categorisation
 class FirstFragment : Fragment() {
 
     private var _binding: FragmentFirstBinding? = null
