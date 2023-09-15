@@ -14,7 +14,7 @@ The project utilizes:
 <br>
 
 ### Gif#1: Visual Representation: Extracting & Collecting the User's Device Token
-##### As the users register their account and launch the application, the life cycles method's of a certain activity are called. These methods generate a unique code for each device that is that copied to the developer's clpiboard (just for demo, else sent directly to Firebase)
+##### As the users register their account and launch the application, the life cycle methods of a certain activity are called. These methods generate a unique code for each device that is copied to the developer's clipboard (just for demo, else sent directly to Firebase)
 <p align="center">
   <img src="http://g.recordit.co/PAPG7PCUoY.gif" alt="animated" />
 </p>
@@ -31,8 +31,8 @@ The project utilizes:
 <br>
 
 
-### Gif#3: Running A Test On The Lambda Function That Invokes Google Firebase Servics To Push A Notification To Use Endpoints!
-##### Node.js Lambda function test is successfull --> pushes notification onto app using Firebase
+### Gif#3: Running A Test On The Lambda Function That Invokes Google Firebase Services To Push A Notification To Use Endpoints!
+##### Node.js Lambda function test is successful --> pushes notification onto app using Firebase
 <p align="center">
   <img src="http://g.recordit.co/hc2zJfPwCf.gif" alt="animated" />
 </p>
