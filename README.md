@@ -2,7 +2,7 @@
 
 #### Want to push notifications to your teams, or alert your customers/clients of an important update? Then this is the app framework you need!
 
-#### I created an Andoird application framework backed by Google Firebase and AWS Services to push notifications to user endpoints!
+#### I created a full-stack Andoird application framework backed by Google Firebase and AWS Services to push notifications to subscribed user endpoints!
 
 <br>
 
